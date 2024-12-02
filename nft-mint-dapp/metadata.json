@@ -1,0 +1,22 @@
+{
+    "name": "Cool NFT #1",
+    "description": "This is a unique NFT artwork.",
+    "image": "ipfs://QmQLJsCnkCpASqxBw5G1si3Cb757WYEjDk7BJ2jmWUft6V",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Legendary"
+      },
+      {
+        "ipfs_testing":"ipfs://QmPFCESgnAHGK1TkyLFnJ2wgshSzpn23CyaswecvLK6KKg"
+        }
+    ]
+  }
+
+
+
+  
